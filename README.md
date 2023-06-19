@@ -3,68 +3,65 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/greencomfytea/mhr-overlay/graphs/contributors">
-		<img alt="Contributors" src="https://custom-icon-badges.demolab.com/github/contributors/greencomfytea/mhr-overlay?logo=person-add" />
+	<a href="https://github.com/greencomfytea/lop-stats-analysis/graphs/contributors">
+		<img alt="Contributors" src="https://custom-icon-badges.demolab.com/github/contributors/greencomfytea/lop-stats-analysis?logo=person-add" />
 	</a>
-	<a href="https://github.com/greencomfytea/mhr-overlay/issues">
-		<img alt="Issues" src="https://custom-icon-badges.demolab.com/github/issues/greencomfytea/mhr-overlay?logo=issue-opened" />
+	<a href="https://github.com/greencomfytea/lop-stats-analysis/issues">
+		<img alt="Issues" src="https://custom-icon-badges.demolab.com/github/issues/greencomfytea/lop-stats-analysis?logo=issue-opened" />
 	</a>
-	<a href="https://github.com/greencomfytea/mhr-overlay/issues">
-		<img alt="Issues Closed" src="https://custom-icon-badges.demolab.com/github/issues-closed/greencomfytea/mhr-overlay?logo=issue-closed" />
+	<a href="https://github.com/greencomfytea/lop-stats-analysis/issues">
+		<img alt="Issues Closed" src="https://custom-icon-badges.demolab.com/github/issues-closed/greencomfytea/lop-stats-analysis?logo=issue-closed" />
 	</a>
-	<a href="https://github.com/greencomfytea/mhr-overlay/pulls">
-		<img alt="Pull Requests" src="https://custom-icon-badges.demolab.com/github/issues-pr/greencomfytea/mhr-overlay?logo=git-pull-request" />
+	<a href="https://github.com/greencomfytea/lop-stats-analysis/pulls">
+		<img alt="Pull Requests" src="https://custom-icon-badges.demolab.com/github/issues-pr/greencomfytea/lop-stats-analysis?logo=git-pull-request" />
 	</a>
-	<a href="https://github.com/greencomfytea/mhr-overlay/pulls">
-		<img alt="Pull Requests Closed" src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/greencomfytea/mhr-overlay?logo=git-pull-request-closed" />
+	<a href="https://github.com/greencomfytea/lop-stats-analysis/pulls">
+		<img alt="Pull Requests Closed" src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/greencomfytea/lop-stats-analysis?logo=git-pull-request-closed" />
 	</a>
 	<br>
-	<a href="https://github.com/greencomfytea/mhr-overlay/blob/main/LICENSE">
-		<img alt="License" src="https://custom-icon-badges.demolab.com/github/license/greencomfytea/mhr-overlay?logo=law" />
+	<a href="https://github.com/greencomfytea/lop-stats-analysis/blob/main/LICENSE">
+		<img alt="License" src="https://custom-icon-badges.demolab.com/github/license/greencomfytea/lop-stats-analysis?logo=law" />
 	</a>
 	<a href="">
 		<img alt="Maintenance" src="https://custom-icon-badges.demolab.com/maintenance/yes/2023?logo=tools" />
 	</a>
 	<br>
   <br>
-	<a href="https://github.com/greencomfytea/mhr-overlay/commits/main">
-		<img alt="Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/t/greencomfytea/mhr-overlay?logo=git-commit" />
+	<a href="https://github.com/greencomfytea/lop-stats-analysis/commits/main">
+		<img alt="Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/t/greencomfytea/lop-stats-analysis?logo=git-commit" />
 	</a>
-	<a href="https://github.com/greencomfytea/mhr-overlay/commits/main">
-		<img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/greencomfytea/mhr-overlay?logo=git-commit" />
-	</a>
-	<a href="https://github.com/greencomfytea/mhr-overlay/commits/main">
-		<img alt="Commits Since" src="https://custom-icon-badges.demolab.com/github/commits-since/greencomfytea/mhr-overlay/latest?logo=git-commit" />
+	<a href="https://github.com/greencomfytea/lop-stats-analysis/commits/main">
+		<img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/greencomfytea/lop-stats-analysis?logo=git-commit" />
 	</a>
 	<br>
-	<a href="https://github.com/greencomfytea/mhr-overlay/graphs/commit-activity">
-		<img alt="Commit Activity (Year)" src="https://custom-icon-badges.demolab.com/github/commit-activity/y/greencomfytea/mhr-overlay?logo=pulse" />
+	<a href="https://github.com/greencomfytea/lop-stats-analysis/graphs/commit-activity">
+		<img alt="Commit Activity (Year)" src="https://custom-icon-badges.demolab.com/github/commit-activity/y/greencomfytea/lop-stats-analysis?logo=pulse" />
 	</a>
-	<a href="https://github.com/greencomfytea/mhr-overlay/graphs/commit-activity">
-		<img alt="Commit Activity (Month)" src="https://custom-icon-badges.demolab.com/github/commit-activity/m/greencomfytea/mhr-overlay?logo=pulse" />
+	<a href="https://github.com/greencomfytea/lop-stats-analysis/graphs/commit-activity">
+		<img alt="Commit Activity (Month)" src="https://custom-icon-badges.demolab.com/github/commit-activity/m/greencomfytea/lop-stats-analysis?logo=pulse" />
 	</a>
-	<a href="https://github.com/greencomfytea/mhr-overlay/graphs/commit-activity">
-		<img alt="Commit Activity (Week)" src="https://custom-icon-badges.demolab.com/github/commit-activity/w/greencomfytea/mhr-overlay?logo=pulse" />
+	<a href="https://github.com/greencomfytea/lop-stats-analysis/graphs/commit-activity">
+		<img alt="Commit Activity (Week)" src="https://custom-icon-badges.demolab.com/github/commit-activity/w/greencomfytea/lop-stats-analysis?logo=pulse" />
 	</a>
 	<br>
 	<br>
 	<a href="">
-		<img alt="Repo Size" src="https://custom-icon-badges.demolab.com/github/repo-size/greencomfytea/mhr-overlay?logo=database" />
+		<img alt="Repo Size" src="https://custom-icon-badges.demolab.com/github/repo-size/greencomfytea/lop-stats-analysis?logo=database" />
 	</a>
 	<a href="https://github.com/sponsors/greencomfytea">
 		<img alt="Sponsors" src="https://custom-icon-badges.demolab.com/github/sponsors/greencomfytea?logo=heart" />
 	</a>
-	<a href="https://github.com/GreenComfyTea/mhr-overlay/watchers">
-		<img alt="Watchers" src="https://custom-icon-badges.demolab.com/github/watchers/greencomfytea/mhr-overlay?logo=eye" />
+	<a href="https://github.com/GreenComfyTea/lop-stats-analysis/watchers">
+		<img alt="Watchers" src="https://custom-icon-badges.demolab.com/github/watchers/greencomfytea/lop-stats-analysis?logo=eye" />
 	</a>
-	<a href="https://github.com/greencomfytea/mhr-overlay/forks">
-		<img alt="Forks" src="https://custom-icon-badges.demolab.com/github/forks/greencomfytea/mhr-overlay?logo=repo-forked" />
+	<a href="https://github.com/greencomfytea/lop-stats-analysis/forks">
+		<img alt="Forks" src="https://custom-icon-badges.demolab.com/github/forks/greencomfytea/lop-stats-analysis?logo=repo-forked" />
 	</a>
-	<a href="https://github.com/greencomfytea/mhr-overlay/stargazers">
-		<img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/greencomfytea/mhr-overlay?logo=star" />
+	<a href="https://github.com/greencomfytea/lop-stats-analysis/stargazers">
+		<img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/greencomfytea/lop-stats-analysis?logo=star" />
 	</a>
-	<a href="https://github.com/greencomfytea/mhr-overlay/graphs/traffic">
-		<img alt="Hits" src="https://custom-icon-badges.demolab.com/endpoint?url=https://hits.dwyl.com/greencomfytea/mhr-overlay.json?color=blue&logo=eye" />
+	<a href="https://github.com/greencomfytea/lop-stats-analysis/graphs/traffic">
+		<img alt="Hits" src="https://custom-icon-badges.demolab.com/endpoint?url=https://hits.dwyl.com/greencomfytea/lop-stats-analysis.json?color=blue&logo=eye" />
 	</a>
 	<br>
 	<br>
