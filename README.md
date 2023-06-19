@@ -96,60 +96,60 @@
 
 # Vitality
 
-![](Images/01_Vitality/.png)
+![Vitality_HP](Images/01_Vitality/00_Vitality_HP.png)
 
-![](Images/01_Vitality/.png)
+![Vitality_Guard_Regain](Images/01_Vitality/01_Vitality_Guard_Regain.png)
 
-![](Images/01_Vitality/.png)
+![Vitality_Guard_Regain_Percents](Images/01_Vitality/02_Vitality_Guard_Regain_Percents.png)
 
-![](Images/01_Vitality/.png)
+![Vitality_Physical_DEF](Images/01_Vitality/03_Vitality_Physical_DEF.png)
 
-![](Images/01_Vitality/.png)
+![Vitality_Fire_Electric_Blitz_Acid_DEF](Images/01_Vitality/04_Vitality_Fire_Electric_Blitz_Acid_DEF.png)
 
 # Vigor
 
-![](Images/02_Vigor/.png)
+![Vigor_Stamina](Images/02_Vigor/00_Vigor_Stamina.png)
 
-![](Images/02_Vigor/.png)
+![Vigor_Physical_DEF](Images/02_Vigor/01_Vigor_Physical_DEF.png)
 
-![](Images/02_Vigor/.png)
+![Vigor_Fire_Electric_Blitz_Acid_DEF](Images/02_Vigor/02_Vigor_Fire_Electric_Blitz_Acid_DEF.png)
 
 # Capacity
 
-![](Images/03_Capacity/.png)
+![Capacity_Legion](Images/03_Capacity/00_Capacity_Legion.png)
 
-![](Images/03_Capacity/.png)
+![Capacity_Weight](Images/03_Capacity/01_Capacity_Weight.png)
 
-![](Images/03_Capacity/.png)
+![Capacity_Physical_DEF](Images/03_Capacity/03_Capacity_Physical_DEF.png)
 
-![](Images/03_Capacity/.png)
+![Capacity_Fire_Electric_Blitz_Acid_DEF](Images/03_Capacity/04_Capacity_Fire_Electric_Blitz_Acid_DEF.png)
 
 # Motivity
 
-![](Images/04_Motivity/.png)
+![Motivity_Weapon_Physical_ATK](Images/04_Motivity/00_Motivity_Weapon_Physical_ATK.png)
 
-![](Images/04_Motivity/.png)
+![Motivity_Legion_Arm_Physical_ATK](Images/04_Motivity/01_Motivity_Legion_Arm_Physical_ATK.png)
 
-![](Images/04_Motivity/.png)
+![Motivity_Physical_DEF](Images/04_Motivity/02_Motivity_Physical_DEF.png)
 
-![](Images/04_Motivity/.png)
+![Motivity_Fire_Electric_Blitz_Acid_DEF](Images/04_Motivity/03_Motivity_Fire_Electric_Blitz_Acid_DEF.png)
 
 # Technique
 
-![](Images/05_Technique/.png)
+![Technique_Weapon_Physical_ATK](Images/05_Technique/00_Technique_Weapon_Physical_ATK.png)
 
-![](Images/05_Technique/.png)
+![Technique_Legion_Arm_Physical_ATK](Images/05_Technique/01_Technique_Legion_Arm_Physical_ATK.png)
 
-![](Images/05_Technique/.png)
+![Technique_Physical_DEF](Images/05_Technique/02_Technique_Physical_DEF.png)
 
-![](Images/05_Technique/.png)
+![Technique_Fire_Electric_Blitz_Acid_DEF](Images/05_Technique/03_Technique_Fire_Electric_Blitz_Acid_DEF.png)
 
 # Advance
 
-![](Images/06_Advance/.png)
+![Advance_Legion](Images/06_Advance/00_Advance_Legion.png)
 
-![](Images/06_Advance/.png)
+![Advance_Fire_Electric_Blitz_Acid_DEF](Images/06_Advance/01_Advance_Fire_Electric_Blitz_Acid_DEF.png)
 
-![](Images/06_Advance/.png)
+![Advance_Fire_Electric_Blitz_Acid_Shock_Break_Resistance](Images/06_Advance/02_Advance_Fire_Electric_Blitz_Acid_Shock_Break_Resistance.png)
 
-![](Images/06_Advance/.png)
+![Advance_Disruption_Resistance](Images/06_Advance/03_Advance_Disruption_Resistance.png)
