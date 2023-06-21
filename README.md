@@ -85,9 +85,60 @@
 
 **THE DATA HAS BEEN OBTAINED FROM THE DEMO, THEREFORE, IT IS A SUBJECT TO CHANGES ONCE THE FULL RELEASE ARRIVES!**
 
-# TL;DR
+# Description
 
-[TODO]
+* All 3 Combat Styles aka presets (`Path of the Cricket: Balance`, `Path of the Bastard: Dexterity` and `Path of the Sweeper: Strength`) start at `Level 10` have `49 Skill Points` allocated in total.
+* For each of the stat I chose a preset with least amount of Skill Points allocated into that stat to maximize the coverage:
+  * `Vitality: 8` with `Dex` preset;
+  * `Vigor: 5` with `Str` preset;
+  * `Capacity: 7` with `Dex` preset;
+  * `Motivity: 5` with `Dex` preset;
+  * `Technique: 5` with `Str` preset;
+  * `Advance: 6` with `Dex` preset;
+* `Physical`/`Fire`/`Electric Blitz`/`Acid` `DEF/Resistances` were generally ignored as they are not what people are usually targetting when leveling. `DEF` characteristics also scale with all of the stats.
+* Equipment:
+  * Weapon: `Puppet's Saber Blade + Puppet's Saber Handle` (chosen because of equal `Motivity` and `Technique` scalings: `C`);
+  * Legion Arm: `Left Arm of Steel` (`Motivity` scaling: `B`, `Technique` scaling: `C`);
+  * Amulets: `none`;
+  * Defense Parts: `none`.
+
+# Analysis
+
+* `Max level: 561` with all stats at 100. Total Ergo Required: `16 118 769`.
+* `Ergo Required` seems to be the only thing that is specifically curated:
+  * `10-80`: exponential increase;
+  * `80-150`: plateau;
+  * `150-219`: linear increase with average steepness;
+  * `219-289`: linear increase with lower steepness;
+  * `289-359`: linear increase with higher steepness;
+  * `359-561`: plateau.
+
+* Everything else: no specific breakpoints put by devs. All graphs uses simple `linear` or `logarithmic` formulas.
+* `Optimal Endgame Level Range: 80-150` depending on a build. Total Ergo Required for Level 150: `1 469 367`;
+* `Optimal Endgame Level: 120`. Total Ergo Required: `988 244`;
+
+* `Legion` scales both with `Capacity` (better scaling) and `Advance` (worse scaling).
+
+* `Optimal Cap for each stat: 40`
+  * `Vitality Cap: 40`
+    * `HP:` 678
+    * `Guard Regain:` 201 (76.7%)
+  * `Vigor Cap: 40`
+    * `Stamina:` 197
+  * `Capacity Cap: 40`
+    * `Legion:` 298+
+    * `Weight:` 160.7
+  * `Motivity Cap: 40`
+    * `Weapon Physical ATK:` based on weapon scaling
+    * `Legion Arm Physical ATK:` based on weapon scaling
+  * `Technique Cap: 40`
+    * `Weapon Physical ATK:` based on weapon scaling
+    * `Legion Arm Physical ATK:` based on weapon scaling
+  * `Advance Cap: 40`
+    * `Legion:` 250+
+    * `Fire/Electric Blitz/Acid/Shock/Break Resistances:` 160
+    * `Disruption Resistance:` 294
+* `Optimal Endgame Levels` and `Caps` are just `a guess` as we don't know how long and how hard the game actually will be, and how much ergo you will be receiving through the game. It would also depend on your build. The guess is based on `Ergo Required` parameter as well as `assuming that a cap for each stat is 40`.
 
 # Ergo Required
 
