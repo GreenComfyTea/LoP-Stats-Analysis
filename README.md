@@ -172,9 +172,9 @@
 
 ![Capacity_Weight](Images/03_Capacity/01_Capacity_Weight.png)
 
-![Capacity_Physical_DEF](Images/03_Capacity/03_Capacity_Physical_DEF.png)
+![Capacity_Physical_DEF](Images/03_Capacity/02_Capacity_Physical_DEF.png)
 
-![Capacity_Fire_Electric_Blitz_Acid_DEF](Images/03_Capacity/04_Capacity_Fire_Electric_Blitz_Acid_DEF.png)
+![Capacity_Fire_Electric_Blitz_Acid_DEF](Images/03_Capacity/03_Capacity_Fire_Electric_Blitz_Acid_DEF.png)
 
 # Motivity
 
